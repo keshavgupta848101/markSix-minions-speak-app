@@ -1,8 +1,8 @@
-# markOne: “Do you know Mahabharat?” CLI quiz app
+# markSeven: “Minion Translation”
 
-# About Quiz
+# About Application
 
-1. The same app as made by Tanay in live video in VanillaJS. Use Minion Fun translation API for the web app
+1. Used Use Fun translation API
 2. The app take in input and translate the input into Minion's language.
 3. Display the output
 
@@ -12,4 +12,4 @@
 
 # Live Link
 
-[Game Link](https://replit.com/@keshavgupta8481/Cli-Mahabharat-Quiz?embed=true)
+[Live Link](https://lively-lokum-9449d7.netlify.app/)
