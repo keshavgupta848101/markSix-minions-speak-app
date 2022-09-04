@@ -12,4 +12,4 @@
 
 # Live Link
 
-[Live Link](https://lively-lokum-9449d7.netlify.app/)
+[Live Link](https://minion-talk-keshavgupta848101.netlify.app/)
